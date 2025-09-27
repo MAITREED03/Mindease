@@ -26,7 +26,7 @@ Free Journal → A safe space to write freely about what’s on your mind
 
 Clone the repository:
 
-git clone https://github.com/your-username/mindease.git
+git clone https://github.com/MAITREED03/Mindease/tree/main
 cd mindease
 
 
@@ -41,9 +41,8 @@ Start the application:
 streamlit run src/app.py
 
 
-Open your browser at:
-👉 http://localhost:8501
-
+Open  browser at:
+👉 https://mindease-n9wazxqvqvwwjgxwnagtrz.streamlit.app/
 Features:
 
 Enter how you’re feeling → click Analyze Emotion 🔍
@@ -56,7 +55,6 @@ Scroll down to Journal Your Thoughts to write freely and save private reflection
 
 View recent entries & download your full journal
 
-📂 Project Structure
 mindease/
 ├── src/
 │   ├── app.py                   # Main Streamlit application
